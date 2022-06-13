@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: d48f570c97207074b94dcd1a6b08638d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5110421739568206498
+    second: lavaaaa_0
+  - first:
+      213: 4198894536031304839
+    second: lavaaaa_1
+  - first:
+      213: 4169090089793162705
+    second: lavaaaa_2
+  - first:
+      213: -7287839870799959647
+    second: lavaaaa_3
+  - first:
+      213: -4782482170279178842
+    second: lavaaaa_4
+  - first:
+      213: 4392605924671152186
+    second: lavaaaa_5
+  - first:
+      213: 594745847909820532
+    second: lavaaaa_6
+  - first:
+      213: 6412206872003005305
+    second: lavaaaa_7
+  - first:
+      213: 1146484494272433617
+    second: lavaaaa_8
+  - first:
+      213: -507241906078958118
+    second: lavaaaa_9
+  - first:
+      213: 5251597835541744583
+    second: lavaaaa_10
+  - first:
+      213: -5178664189185971935
+    second: lavaaaa_11
+  - first:
+      213: -6800202373644689822
+    second: lavaaaa_12
+  - first:
+      213: 8375408091406628658
+    second: lavaaaa_13
+  - first:
+      213: 1915927442761948926
+    second: lavaaaa_14
+  - first:
+      213: -2343592400020959141
+    second: lavaaaa_15
+  - first:
+      213: -7861779920284527752
+    second: lavaaaa_16
+  - first:
+      213: 7047899991143283625
+    second: lavaaaa_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lavaaaa_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 156
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a29567fe7ddbe640800000000000000
+      internalID: 5110421739568206498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaaaa_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 140
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c79757558754a30800000000000000
+      internalID: 4198894536031304839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaaaa_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 140
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd09be09559bd930800000000000000
+      internalID: 4169090089793162705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaaaa_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 140
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a92a0900446cda90800000000000000
+      internalID: -7287839870799959647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaaaa_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 140
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adced70ec531adb0800000000000000
+      internalID: -4782482170279178842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaaaa_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 140
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30ec42c0dba5fc30800000000000000
+      internalID: 4392605924671152186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaaaa_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 75
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478ad449236f04800800000000000000
+      internalID: 594745847909820532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaaaa_7
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 156
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bce004d2cbcf850800000000000000
+      internalID: 6412206872003005305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaaaa_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 76
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd0a9db29129ef00800000000000000
+      internalID: 1146484494272433617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaaaa_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 76
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addb8f48c2ae5f8f0800000000000000
+      internalID: -507241906078958118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaaaa_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 76
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb0da2486c61e840800000000000000
+      internalID: 5251597835541744583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaaaa_11
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0
+        width: 156
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129a8809b50b128b0800000000000000
+      internalID: -5178664189185971935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaaaa_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ed32e58f3d0a1a0800000000000000
+      internalID: -6800202373644689822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaaaa_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 12
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2377939c84d6b3470800000000000000
+      internalID: 8375408091406628658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaaaa_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 12
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe9f31bbddb69a10800000000000000
+      internalID: 1915927442761948926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaaaa_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 12
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50127a0123e97fd0800000000000000
+      internalID: -2343592400020959141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaaaa_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 12
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8735425e0d855e290800000000000000
+      internalID: -7861779920284527752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaaaa_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 12
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abf29853bb2fc160800000000000000
+      internalID: 7047899991143283625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      lavaaaa_3: -7287839870799959647
+      lavaaaa_9: -507241906078958118
+      lavaaaa_15: -2343592400020959141
+      lavaaaa_16: -7861779920284527752
+      lavaaaa_17: 7047899991143283625
+      lavaaaa_7: 6412206872003005305
+      lavaaaa_1: 4198894536031304839
+      lavaaaa_8: 1146484494272433617
+      lavaaaa_11: -5178664189185971935
+      lavaaaa_14: 1915927442761948926
+      lavaaaa_12: -6800202373644689822
+      lavaaaa_10: 5251597835541744583
+      lavaaaa_0: 5110421739568206498
+      lavaaaa_5: 4392605924671152186
+      lavaaaa_2: 4169090089793162705
+      lavaaaa_4: -4782482170279178842
+      lavaaaa_13: 8375408091406628658
+      lavaaaa_6: 594745847909820532
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
